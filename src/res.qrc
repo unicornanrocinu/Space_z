@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/center_image.png</file>
+        <file>res/cut_machine.png</file>
+        <file>res/exit_button.png</file>
+        <file>res/icon.png</file>
+        <file>res/miner.png</file>
+        <file>res/rubbish_bin.png</file>
+        <file>res/shop_button.png</file>
+        <file>res/start_button.png</file>
+        <file>res/stop_image.png</file>
+        <file>res/store_button.png</file>
+        <file>res/straight_trace.png</file>
+        <file>res/title_image.png</file>
+        <file>res/turning_trace.png</file>
+        <file>res/help_button.png</file>
+        <file>res/bin_btn.png</file>
+        <file>res/bin_btn2.png</file>
+        <file>res/cut_btn.png</file>
+        <file>res/cut_btn2.png</file>
+        <file>res/miner_btn.png</file>
+        <file>res/miner_btn2.png</file>
+        <file>res/trace_btn.png</file>
+        <file>res/trace_btn2.png</file>
+        <file>res/bin_btn_p.png</file>
+        <file>res/cut_btn_p.png</file>
+        <file>res/miner_btn_p.png</file>
+        <file>res/trace_btn_p.png</file>
+        <file>res/turning_trace2.png</file>
+        <file>res/miner1.png</file>
+        <file>res/miner2.png</file>
+        <file>res/miner1_i.png</file>
+        <file>res/miner2_i.png</file>
+        <file>res/mine2.png</file>
+        <file>res/mine1.png</file>
+        <file>res/money.png</file>
+        <file>res/mine1s.png</file>
+    </qresource>
+</RCC>
